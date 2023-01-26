@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973834374705",
+    "project_id": "fir-messaging101-71752",
+    "storage_bucket": "fir-messaging101-71752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973834374705:android:eed01bb03ed33703a88f10",
+        "android_client_info": {
+          "package_name": "com.example.firebasemessaging101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973834374705-f67klicu0uk16sghv3jb8o3hocus5vu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMvIfbi4zOgj3Ln1AV7NMfpDMNhXhNdiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973834374705-f67klicu0uk16sghv3jb8o3hocus5vu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
